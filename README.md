@@ -1,2 +1,2 @@
 # bootstrap-replicas
-Generating bootstrap replicas to investigate fish sleep length 
+Generating bootstrap replicas to investigate the active bout lengths of fish.
